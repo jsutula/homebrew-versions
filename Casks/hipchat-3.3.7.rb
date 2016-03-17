@@ -1,4 +1,4 @@
-cask 'hipchat' do
+cask 'hipchat-3.3.7' do
   version '3.3.7-205'
   sha256 '42d4e6ffd509bded1160d99ce3826372ead536cc322df3149ca5c69dd460a432'
 
