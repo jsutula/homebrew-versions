@@ -1,4 +1,4 @@
-class Gradle < Formula
+class Gradle35 < Formula
   desc "Build system based on the Groovy language"
   homepage "https://www.gradle.org/"
   url "https://services.gradle.org/distributions/gradle-3.5-all.zip"
